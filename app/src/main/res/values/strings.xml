@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Galeo</string>
+    <string name="delete"><font color = "#AA00">Delete</font></string>
+</resources>
